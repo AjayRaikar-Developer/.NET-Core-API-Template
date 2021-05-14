@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "I:\\GitHub\\.NET Core API Template\\WebApplication1.csproj": {}
+    "I:\\GitHub\\.NET Core API Template\\ApiTemplate.csproj": {}
   },
   "projects": {
-    "I:\\GitHub\\.NET Core API Template\\WebApplication1.csproj": {
+    "I:\\GitHub\\.NET Core API Template\\ApiTemplate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\GitHub\\.NET Core API Template\\WebApplication1.csproj",
-        "projectName": "WebApplication1",
-        "projectPath": "I:\\GitHub\\.NET Core API Template\\WebApplication1.csproj",
+        "projectUniqueName": "I:\\GitHub\\.NET Core API Template\\ApiTemplate.csproj",
+        "projectName": "ApiTemplate",
+        "projectPath": "I:\\GitHub\\.NET Core API Template\\ApiTemplate.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "I:\\GitHub\\.NET Core API Template\\obj\\",
         "projectStyle": "PackageReference",
