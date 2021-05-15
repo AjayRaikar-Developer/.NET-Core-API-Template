@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace WebApplication1.Controllers
+namespace ApiTemplate.Controllers
 {
     [ApiController]
     [Route("api/[controller]/[action]")]
