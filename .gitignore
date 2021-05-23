@@ -3,3 +3,15 @@
 ################################################################################
 
 /.vs/ApiTemplate
+/bin
+/bin/Debug/netcoreapp3.1
+bin/Debug/netcoreapp3.1/ApiTemplate.deps.json
+bin/Debug/netcoreapp3.1/ApiTemplate.runtimeconfig.dev.json
+bin/Debug/netcoreapp3.1/ApiTemplate.runtimeconfig.json
+bin/Debug/netcoreapp3.1/ApiTemplate.deps.json
+bin/Debug/netcoreapp3.1/ApiTemplate.dll
+obj/ApiTemplate.csproj.nuget.dgspec.json
+obj/ApiTemplate.csproj.nuget.g.props
+*.cache
+*.json
+*.cache
